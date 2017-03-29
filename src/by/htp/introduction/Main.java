@@ -1,4 +1,4 @@
-package by.htp.task1;
+package by.htp.introduction;
 
 import java.util.Scanner;
 
